@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=820&height=60&lines=Senior+.NET+%2F+C%23+Full-Stack+Engineer;12%2B+Years+%7C+Fintech+%C2%B7+Banking+%C2%B7+Healthcare;Architecting+Secure%2C+Scalable+Systems;Founder+%40+LogiVerx+%E2%80%94+Freelance+Consulting;Exploring+Agentic+AI+%2B+RAG+with+.NET" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=23&pause=1000&color=2F81F7&background=00000000&center=true&vCenter=true&width=820&height=60&lines=Senior+.NET+%2F+C%23+Full-Stack+Engineer;12%2B+Years+%7C+Fintech+%C2%B7+Banking+%C2%B7+Healthcare;Architecting+Secure%2C+Scalable+Systems;Freelance+Consulting+%E2%80%94;Exploring+Agentic+AI+%2B+RAG+with+.NET" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=alizia-dev&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS)](https://github.com/alizia-dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alizia0321/)
@@ -15,7 +15,7 @@
 
 I'm a **Senior .NET / C# Full-Stack Engineer & Architect** with **12+ years** of experience designing and shipping secure, high-performance systems for **regulated industries** — banking, fintech, and healthcare. I focus on translating business requirements into scalable architecture, not just writing code: Domain-Driven Design, microservices, and Clean Architecture are the tools, not the goal.
 
-Today I work independently under **LogiVerx**, my own consulting brand, taking on freelance and contract engagements (sourced through Upwork and direct outreach) for teams that need enterprise-grade .NET/Angular systems on **Azure** and **AWS**. I'm also spending time exploring how **agentic AI, LLMs, RAG, and MCP** integrate responsibly into existing .NET codebases.
+Today I work independently, taking on contract engagements (sourced through Upwork and direct outreach) for teams that need enterprise-grade .NET/Angular systems on **Azure** and **AWS**. I'm also spending time exploring how **agentic AI, LLMs, RAG, and MCP** integrate responsibly into existing .NET codebases.
 
 - 🏦 Deep domain expertise in **Fintech, Banking, RCM Healthcare, and E-commerce**
 - ☁️ Cloud infrastructure across **Azure** and **AWS** (ECS, EC2, SQS, S3)
