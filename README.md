@@ -15,7 +15,7 @@
 
 I'm a **Senior .NET / C# Full-Stack Engineer & Architect** with **12+ years** of experience designing and shipping secure, high-performance systems for **regulated industries** — banking, fintech, and healthcare. I focus on translating business requirements into scalable architecture, not just writing code: Domain-Driven Design, microservices, and Clean Architecture are the tools, not the goal.
 
-Today I work independently, taking on contract engagements (sourced through Upwork and direct outreach) for teams that need enterprise-grade .NET/Angular systems on **Azure** and **AWS**. I'm also spending time exploring how **agentic AI, LLMs, RAG, and MCP** integrate responsibly into existing .NET codebases.
+Today I work independently, taking on contract engagements for teams that need enterprise-grade .NET/Angular systems on **Azure** and **AWS**. I'm also spending time exploring how **agentic AI, LLMs, RAG, and MCP** integrate responsibly into existing .NET codebases.
 
 - 🏦 Deep domain expertise in **Fintech, Banking, RCM Healthcare, and E-commerce**
 - ☁️ Cloud infrastructure across **Azure** and **AWS** (ECS, EC2, SQS, S3)
